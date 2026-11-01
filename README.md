@@ -221,4 +221,4 @@ Textpattern is the complete free version with all features and updates included.
 Ready to create your stunning website? Download Textpattern now and unlock the full potential of your online presence!
 
 ---
-**Last updated:** 2026-11-01 15:41:15 UTC
+**Last updated:** 2026-11-01 20:03:53 UTC
